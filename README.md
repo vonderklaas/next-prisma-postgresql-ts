@@ -1,6 +1,6 @@
 ## SETUP
 
-Next.js, Prisma, PostgreSQL, TypeScript, Docker
+Next.js, Prisma, TawilwindCSS, PostgreSQL, TypeScript, Docker
 
 ### Docker Flow
 
